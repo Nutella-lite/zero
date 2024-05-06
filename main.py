@@ -30,6 +30,7 @@ def mark_task():
     except:
         pass
 
+
 root = tk.Tk()
 root.title("Task Tracker")
 root.configure(background="black")
